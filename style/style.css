@@ -1,0 +1,244 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+main .shekveta{
+    width: 700px;
+    height: 100px;
+    background-color: #021010 ;
+    border-radius: 20px;
+    position: absolute;
+    right: 90px;
+    top: 58px;
+}
+
+main h1{
+    color: #FFFFFF ;
+    position: absolute;
+    right: 130px;
+    top: 24px;
+}
+
+.saxeli{
+
+
+    position: absolute;
+    top: 220px;
+    right: 90px;
+    width: 700px;
+    height: 70px;
+    
+}
+
+.gvari{
+    position: absolute;
+    top: 328px;
+    right: 90px;
+    width: 700px;
+    height: 70px;
+}
+
+.tele{
+    position: absolute;
+    top: 424px;
+    right: 90px;
+    width: 700px;
+    height: 70px;
+}
+
+.lokacia{
+    position: absolute;
+    top: 526px;
+    right: 90px;
+    width: 700px;
+    height: 153px;
+}
+
+/* ეს ვერ მივხვდი რატო არ მუშაობს */
+
+.info input{
+    border-radius: 90%;
+}
+
+.shekveta p{
+    position: absolute;
+    top: 506px;
+    right: 90px;
+}
+
+
+
+
+main .misamarti{
+    position: absolute;
+    top: 500px;
+    right: 530px;
+    width: 260px;
+    height: 18px
+
+}
+
+main .zustimisamarti{
+    font-size: 14px;
+}
+
+
+main .gadaxdismetodi{
+position: absolute;
+right: 580px;
+top: 706px;
+
+
+}
+
+main .gadaxda{
+    width: 600px;
+    height: 44px;
+    position: absolute;
+    right: 10px;
+    top: 770px;
+    font-size: large;
+}
+
+.gadaxda .cash{
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+
+main .gilaki{
+    width: 700px;
+    height: 50px;
+    margin-bottom: 400px;
+    position: absolute;
+    top: 851px;
+    right: 90px;
+    background-color: #01AF8C;
+    border-radius: 10px;
+    border-top: #01AF8C;
+    border-right: #01AF8C;
+    border-left: #01AF8C;
+    margin-bottom: 126px;
+
+
+}
+
+main input[type="submit"]{
+margin-bottom: 125px
+
+}
+
+
+main a :hover{
+    
+    background-color: #005a48;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* meore gverdi */
+
+
+main .madloba{
+    position: absolute;
+    top: 58px;
+    right: 90px;
+    width: 750px;
+    height: 394px;
+    background-color: #021010;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+main .madloba .migebulia{
+color: #FFFFFF;
+position: absolute;
+right: 145px;
+top: 77px;
+font-size: 36px;
+}
+
+
+
+.menejeri{
+color: #FFFFFF;
+position: absolute;
+right: 50px;
+top: 168px;
+font-size: 36px;
+}
+
+
+
+.dakavshireba{
+color: #FFFFFF;
+position: absolute;
+font-size: 36px;
+top: 220px;
+right: 220px;
+}
+
+.maloba{
+color: #FFFFFF;
+position: absolute;
+font-size: 20px;
+top: 302px;
+right: 100px;
+}
+
+.fasdakleba{
+    width: 750px;
+    height: 70px;
+    background-color: #F5BA22;
+    border-radius: 10px;
+    position: absolute;
+    top: 852px;
+    right: 90px;
+}
+
+.fasdakleba h3{
+    margin: 22px 164px;
+    color: #000000;
+}
+
+
+
+.sale :hover{
+    background-color: #825d00;
+}
+
+
+
+
+
+
